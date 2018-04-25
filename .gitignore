@@ -6,3 +6,5 @@
 .packages
 test/
 test_driver/
+build/
+android/.gradle/
