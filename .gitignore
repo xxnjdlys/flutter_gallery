@@ -1,0 +1,8 @@
+.idea
+*.iml
+*.metadata
+*.lock
+.flutter-plugins 
+.packages
+test/
+test_driver/
